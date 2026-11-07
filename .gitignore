@@ -1,0 +1,10 @@
+# Generated / local only
+graphify-out/
+scrape.log
+.cache/
+
+# Python and OS clutter
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
